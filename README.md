@@ -1,2 +1,3 @@
 # Mixr-App
-This is an app, which gives you the instructions to create a random cocktail.
+"Drink up! Time to quench that thirst!"
+This app gives you the name, image, ingredients, and instructions for one of 20 random cocktails.
